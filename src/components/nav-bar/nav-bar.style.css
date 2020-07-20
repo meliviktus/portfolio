@@ -1,0 +1,8 @@
+.nav-bar ul {
+    display: flex;
+}
+
+.nav-bar ul li {
+    list-style-type: none;
+    padding-right: 1em;
+}
