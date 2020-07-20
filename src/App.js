@@ -5,11 +5,6 @@ import { Nav } from './components/nav/nav.component';
 import './App.css';
 
 class App extends Component {
-  constructor() {
-
-    super();
-
-  }
 
   render () {
     return (
